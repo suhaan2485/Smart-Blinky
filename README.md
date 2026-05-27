@@ -30,6 +30,12 @@ Button 3 - Complex animation effect
 #PCB 3D Back View:
 <img width="699" height="701" alt="3D Back" src="https://github.com/user-attachments/assets/57092313-5f22-4697-8c25-4a1358f79ceb" />
 
+#Bill Of Material:
+<img width="601" height="295" alt="image" src="https://github.com/user-attachments/assets/4c5a5d88-3de9-4975-8bc6-827df7c55f72" />
+
+I think i would need more like the kit and parts which i will update in the BOM as the reviwer suggests.
+
+
 The Arduino Codes can be found in the File named "Arduino Codes" attached in this github repo! 
 
 

@@ -22,21 +22,22 @@ Button 3 - Complex animation effect
 
 
 #Schematics:
-<img width="1180" height="542" alt="Schematics" src="https://github.com/user-attachments/assets/f803fc8c-0a03-4217-b373-80f99a75a90b" />
+<img width="1180" height="542" alt="Schematics" src="https://github.com/user-attachments/assets/b7c2103e-d914-44dd-ad4c-68346143e9a8" />
+
 
 
 #PCB Layout:
-<img width="883" height="653" alt="PCB Layout" src="https://github.com/user-attachments/assets/88d86cfb-2b93-4f2f-9a9c-79092e1c80c0" />
+<img width="1180" height="680" alt="PCB Layout" src="https://github.com/user-attachments/assets/c6484e34-8b97-46c2-8c26-6a3fe5fdbded" />
 
 
 #PCB 3D Front View:
-<img width="907" height="704" alt="PCB 3D Front View" src="https://github.com/user-attachments/assets/8668492c-f71c-4cae-adb9-d7f2b54a63db" />
+<img width="1165" height="734" alt="PCB 3D Front View" src="https://github.com/user-attachments/assets/d0d0850a-4796-4faf-bb8f-ea124ff10936" />
 
 #PCB 3D Back View:
-<img width="769" height="700" alt="PCB 3D Back View" src="https://github.com/user-attachments/assets/c57dac6c-6d22-4edb-a592-604b10a0d468" />
+<img width="1102" height="693" alt="PCB 3D Back View" src="https://github.com/user-attachments/assets/6d2dce9a-769d-42ed-96ba-a347d520be6d" />
 
 #Bill Of Material:
-<img width="600" height="572" alt="Screenshot 2026-06-08 at 2 30 23 AM" src="https://github.com/user-attachments/assets/16d9bdc0-7ef4-4a55-a01c-d8dea43010ec" />
+<img width="1257" height="684" alt="Screenshot 2026-06-08 at 2 33 35 AM" src="https://github.com/user-attachments/assets/2739212c-d1c3-46ad-9619-681c30015855" />
 
 
 

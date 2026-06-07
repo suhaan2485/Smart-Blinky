@@ -7,7 +7,9 @@ Softwares used: KiCad, Google Chrome, Arduino(2.3.8)
 Simple PCB which uses some 5mm - LEDs, XIAO RP2040 Arduino, MX Key Switches, generic keycaps and 68ohm resistors.
 In my case i will use 3 buttons and 3 leds so 3 of each except the RP2040.
 
-Here is what each button is supposed to do: 
+Here is what each button is supposed to do:
+
+
 Button 1 - Blinks any random LED using random()
 
 

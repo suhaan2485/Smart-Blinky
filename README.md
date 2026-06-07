@@ -9,7 +9,11 @@ In my case i will use 3 buttons and 3 leds so 3 of each except the RP2040.
 
 Here is what each button is supposed to do: 
 Button 1 - Blinks any random LED using random()
+
+
 Button 2 - L2-(L1+L3) sequence
+
+
 Button 3 - Complex animation effect
 
 **##Photos:**

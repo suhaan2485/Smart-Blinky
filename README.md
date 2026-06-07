@@ -36,10 +36,11 @@ Button 3 - Complex animation effect
 <img width="769" height="700" alt="PCB 3D Back View" src="https://github.com/user-attachments/assets/c57dac6c-6d22-4edb-a592-604b10a0d468" />
 
 #Bill Of Material:
+<img width="600" height="572" alt="Screenshot 2026-06-08 at 2 30 23 AM" src="https://github.com/user-attachments/assets/16d9bdc0-7ef4-4a55-a01c-d8dea43010ec" />
 
 
 
 The Arduino Codes can be found in the File named "Arduino Codes" attached in this github repo! 
-
+The Gerber(.zip) file can be found directly in the main branch or "KiCad Files" Folder
 
 

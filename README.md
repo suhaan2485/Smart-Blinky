@@ -18,6 +18,14 @@ Button 2 - L2-(L1+L3) sequence
 
 Button 3 - Complex animation effect
 
+
+The Arduino Codes can be found in the File named "Arduino Codes" attached in this github repo! 
+
+The Gerber(.zip) file can be found directly in the main branch or "KiCad Files" Folder
+
+
+
+
 # **Photos:**
 
 
@@ -48,10 +56,4 @@ Bill Of Material:
 | 5mm LED - Orange Color (10) | LED for blink blink o_0 | 1 | 0.32 | https://quartzcomponents.com/products/5mm-led-orange-color?variant=42242807464170 | Quartz Components |
 | 5mm LED - Red Color (10) | LED for blink blink o_0 | 1 | 0.21 | https://quartzcomponents.com/products/red-5mm-led?variant=31898112065671 | Quartz Components |
 | PCB | "Mother"- Board | 1 | 4.00 | https://cart.jlcpcb.com/shopcart/cart/ | JLCPCB |
-
-
-The Arduino Codes can be found in the File named "Arduino Codes" attached in this github repo! 
-
-The Gerber(.zip) file can be found directly in the main branch or "KiCad Files" Folder
-
 

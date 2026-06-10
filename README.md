@@ -21,7 +21,7 @@ Button 3 - Complex animation effect
 
 The Arduino Codes can be found in the File named "Arduino Codes" attached in this github repo! 
 
-The Gerber(.zip) file can be found directly in the main branch or "KiCad Files" Folder
+The Gerber file/s can be found directly in the main branch or "KiCad Files" Folder
 
 
 

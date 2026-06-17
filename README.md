@@ -47,13 +47,12 @@ PCB 3D Back View:
 Bill Of Material:
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
-|------|---------|----------|------------------|------|-------------|
-| 68 Ohm 1/4 Watt Resistor with 1% Tolerance (10) | Resistance for LEDs | 1 | 0.11 | https://quartzcomponents.com/products/68-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10?variant=45769223897322 | Quartz Components |
-| Seeed Studio XIAO RP2040 | Brain I would say | 1 | 5.80 | https://thinkrobotics.com/products/seeed-studio-xiao-rp2040?variant=47933480173885&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=cpc&utm_source=SR_google&utm_medium=Shopping&utm_campaign=SR467_ShoppingAds_Category-23015774368&utm_content=-293946777986&gad_source=1&gad_campaignid=23015774368&gbraid=0AAAAACk3EvwNg85ivfXz7_douBtysfEe2&gclid=Cj0KCQjwrZTRBhDSARIsAHidYfc42TlNvgxk9vyaR3ITMNI-v1SkI1oklDQBm8kxzEVwLjYCuWwf5FUaAjsrEALw_wcB | Think Robotics |
-| Blank DSA Keycaps (5) | Keyboard Keycap | 1 | 1.10 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_variations=off-white | MecKeys |
-| Cherry MX2A Switch (10) | Keyboard Switch | 1 | 4.60 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx2a-switch/?attribute_pa_cherry-mx=blue-rgb | MecKeys |
-| 5mm LED - Green Color (10) | LED for blink blink o_0 | 1 | 0.21 | https://quartzcomponents.com/products/green-5mm-led?variant=31898111967367 | Quartz Components |
-| 5mm LED - Orange Color (10) | LED for blink blink o_0 | 1 | 0.32 | https://quartzcomponents.com/products/5mm-led-orange-color?variant=42242807464170 | Quartz Components |
-| 5mm LED - Red Color (10) | LED for blink blink o_0 | 1 | 0.21 | https://quartzcomponents.com/products/red-5mm-led?variant=31898112065671 | Quartz Components |
-| PCB | "Mother"- Board | 1 | 4.00 | https://cart.jlcpcb.com/shopcart/cart/ | JLCPCB |
-
+|----------|----------|----------|----------|----------|----------|
+| Cherry MX2A Switch (10) | Keyboard Switch | 1 | 4.6 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx2a-switch/?attribute_pa_cherry-mx=blue-rgb | Mac Keys |
+| Blank DSA Keycaps (5) | Keyboard Keycap | 1 | 1.1 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_variations=off-white | Mac Keys |
+| 5mm Blue LED (10) | LED for blink blink o_0 | 1 | 0.25 | https://thinkrobotics.com/products/5mm-led-pack-of-10?variant=12744149205064 | Think Robotics |
+| 5mm Green LED (10) | LED for blink blink o_0 | 1 | 0.25 | https://thinkrobotics.com/products/5mm-led-pack-of-10?variant=12744149205064 | Think Robotics |
+| 5mm Red LED (10) | LED for blink blink o_0 | 1 | 0.25 | https://thinkrobotics.com/products/5mm-led-pack-of-10?variant=12744149205064 | Think Robotics |
+| Seeed Studio XIAO RP2040 | Brain I would say | 1 | 5.8 | https://thinkrobotics.com/products/seeed-studio-xiao-rp2040?variant=47933480173885&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=cpc&utm_source=SR_google&utm_medium=Shopping&utm_campaign=SR467_ShoppingAds_Category-23015774368&utm_content=-293946777986&gad_source=1&gad_campaignid=23015774368&gbraid=0AAAAACk3EvwNg85ivfXz7_douBtysfEe2&gclid=Cj0KCQjwrZTRBhDSARIsAHidYfc42TlNvgxk9vyaR3ITMNI-v1SkI1oklDQBm8kxzEVwLjYCuWwf5FUaAjsrEALw_wcB | Think Robotics |
+| 68 Ohm 1/4 Watt Resistor with 1% Tolerance (10) | Resistance for LEDs | 1 | 0.11 | https://quartzcomponents.com/products/68-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10?variant=45769223897322 | Quatrz Componenets |
+| PCB | "Mother"- Board | 1 | 13.55 | https://www.lioncircuits.com/cart | Lion Circuits |

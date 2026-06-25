@@ -1,123 +1,81 @@
-##Ardiono Codes
-( i wil be using these C++ codes in Ardiono App )
+// Arduino Codes
+// ( i will be using these C++ codes in Arduino App )
 
-#mapping pinouts:
-
+// #mapping pinouts:
 int BUT1 = D0;
 int BUT2 = D1;
 int BUT3 = D2;
-
 int LED1 = D3;
 int LED2 = D4;
-int LED3 = D5; 
+int LED3 = D5;
 
-#declearing input/output and basic void setup + main code:
+// #helper function:
+void allOff()
+{
+  digitalWrite(LED1, LOW);
+  digitalWrite(LED2, LOW);
+  digitalWrite(LED3, LOW);
+}
 
+// #declaring input/output and basic void setup + main code:
 void setup()
 {
   pinMode(BUT1, INPUT_PULLUP);
   pinMode(BUT2, INPUT_PULLUP);
   pinMode(BUT3, INPUT_PULLUP);
-
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
   pinMode(LED3, OUTPUT);
 
-  //signature startup led blink 123-123-123
-  delay(5000);
+  allOff();
 
+  //signature startup animation 123-123-123 then all flash
   for(int i = 0; i < 3; i++)
   {
-    digitalWrite(LED1, HIGH);
-    delay(200);
-    digitalWrite(LED1, LOW);
-
-    digitalWrite(LED2, HIGH);
-    delay(200);
-    digitalWrite(LED2, LOW);
-
-    digitalWrite(LED3, HIGH);
-    delay(200);
-    digitalWrite(LED3, LOW);
-
-    delay(150);
+    digitalWrite(LED1, HIGH); delay(150);
+    digitalWrite(LED2, HIGH); delay(150);
+    digitalWrite(LED3, HIGH); delay(150);
+    allOff(); delay(200);
   }
-
-  randomSeed(analogRead(A0));
+  digitalWrite(LED1, HIGH);
+  digitalWrite(LED2, HIGH);
+  digitalWrite(LED3, HIGH);
+  delay(400);
+  allOff();
 }
 
 void loop()
 {
-
-  //BUT1 = Random LED
+  //BUT1 = lights LED1
   if(digitalRead(BUT1) == LOW)
   {
-    int randomLED = random(1,4);
-
-    digitalWrite(LED1, LOW);
-    digitalWrite(LED2, LOW);
-    digitalWrite(LED3, LOW);
-
-    if(randomLED == 1)
-    {
-      digitalWrite(LED1, HIGH);
-    }
-
-    if(randomLED == 2)
-    {
-      digitalWrite(LED2, HIGH);
-    }
-
-    if(randomLED == 3)
-    {
-      digitalWrite(LED3, HIGH);
-    }
-
-    delay(300);
+    digitalWrite(LED1, HIGH);
+    delay(1000);
+    allOff();
+    delay(200);
   }
 
   //BUT2 = sequence 2-(1+3)
   if(digitalRead(BUT2) == LOW)
   {
-
-
     digitalWrite(LED2, HIGH);
     delay(300);
     digitalWrite(LED2, LOW);
-
-
     digitalWrite(LED1, HIGH);
     digitalWrite(LED3, HIGH);
-
     delay(400);
-
-    digitalWrite(LED1, LOW);
-    digitalWrite(LED3, LOW);
+    allOff();
+    delay(200);
   }
 
-  //BUT3 = Cool Light effect
+  //BUT3 = bouncing chase effect
   if(digitalRead(BUT3) == LOW)
   {
-
-    digitalWrite(LED1, HIGH);
-    delay(120);
-    digitalWrite(LED1, LOW);
-
-    digitalWrite(LED2, HIGH);
-    delay(120);
-    digitalWrite(LED2, LOW);
-
-    digitalWrite(LED3, HIGH);
-    delay(120);
-    digitalWrite(LED3, LOW);
-
-    digitalWrite(LED2, HIGH);
-    delay(120);
-    digitalWrite(LED2, LOW);
-
-    digitalWrite(LED1, HIGH);
-    delay(120);
-    digitalWrite(LED1, LOW);
+    digitalWrite(LED1, HIGH); delay(120); digitalWrite(LED1, LOW);
+    digitalWrite(LED2, HIGH); delay(120); digitalWrite(LED2, LOW);
+    digitalWrite(LED3, HIGH); delay(120); digitalWrite(LED3, LOW);
+    digitalWrite(LED2, HIGH); delay(120); digitalWrite(LED2, LOW);
+    digitalWrite(LED1, HIGH); delay(120); digitalWrite(LED1, LOW);
+    delay(200);
   }
-
 }

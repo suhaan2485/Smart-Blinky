@@ -44,6 +44,17 @@ PCB 3D Front View:
 PCB 3D Back View:
 <img width="1102" height="693" alt="PCB 3D Back View" src="https://github.com/user-attachments/assets/6d2dce9a-769d-42ed-96ba-a347d520be6d" />
 
+PCB Front View: 
+<img width="2245" height="1962" alt="Image" src="https://github.com/user-attachments/assets/2f92866f-e787-4dcd-9e25-abc0fd6b12ca" />
+
+PCB Back View:
+<img width="2870" height="2005" alt="Image" src="https://github.com/user-attachments/assets/cce0e070-9f38-48ac-90a4-4b233438dcb6" />
+
+
+
+U can also Find The Live Demo of my project in the MP4 linked in this repo!!
+
+
 Bill Of Material:
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
